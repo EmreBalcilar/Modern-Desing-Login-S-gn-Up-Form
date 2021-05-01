@@ -1,2 +1,2 @@
-# Modern-Desing-Login-S-gn-Up-Form
+# Modern-Desing-Login-Sign-Up-Form
 C# Form Application Modern Desing Login Sıgn Up 
