@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\modernui\modernui\bin\Debug\modernui.exe.config
+C:\Users\Lenovo\source\repos\modernui\modernui\bin\Debug\modernui.exe
+C:\Users\Lenovo\source\repos\modernui\modernui\bin\Debug\modernui.pdb
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.Form1.resources
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.exe
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.pdb
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.Form2.resources
+C:\Users\Lenovo\source\repos\modernui\modernui\obj\Debug\modernui.Form3.resources
